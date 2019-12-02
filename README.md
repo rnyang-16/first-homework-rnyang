@@ -20,7 +20,7 @@ Open index.html in your favorite browser and click on whatever part that you are
 
 ## Credits
 
-https://github.com/microsoft/vscode
+https://github.com/microsoft/vscode<br>
 https://guides.github.com/features/mastering-markdown/
 
 
